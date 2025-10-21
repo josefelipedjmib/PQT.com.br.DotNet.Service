@@ -1,0 +1,7 @@
+.vs/
+.cr/
+**/bin/
+**/obj/
+**/packages/
+**/*.csproj.user
+**/*.pubxml.user
